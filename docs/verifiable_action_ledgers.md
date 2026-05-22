@@ -1,0 +1,1 @@
+cat /tmp/verifiable_action_ledger.md | cat

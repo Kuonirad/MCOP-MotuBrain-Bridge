@@ -1,0 +1,1 @@
+cat /tmp/dialectical_self_correction.md | cat
